@@ -1,1 +1,47 @@
-# sturdy-octo-robot
+ write a clean code.
+ ft
+cfc
+tgcfc
+tcf
+ggcfgc f
+fgcfgfcffcgcf
+gc  cfgcg
+ffcg
+cf
+ggcf
+g
+cfg
+cf
+g
+cfg
+gcfc
+ggfc
+fgc
+fg
+cfc
+gcf
+g
+fg
+gcf
+ggc
+cg
+ccfg
+cfc
+gc
+fg
+c
+gccf
+g
+ccffg
+f
+fgc
+g
+cffg
+cfgf
+ccf
+g
+f
+gcfcg
+cfc
+gc
+g
